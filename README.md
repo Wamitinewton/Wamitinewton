@@ -22,7 +22,7 @@
 <a href="https://stackoverflow.com/users/24311139" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24311139" height="30" width="40" /></a>
 <a href="https://kaggle.com/newton wamiti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="newton wamiti" height="30" width="40" /></a>
 <a href="https://dribbble.com/newton wamiti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="newton wamiti" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/newton_wamiti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="newton_wamiti" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/fy5bx00nrv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fy5bx00nrv" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
