@@ -60,8 +60,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://avatars.githubusercontent.com/u/144038101?v=4"  />
-</div>
+
 
 ###
