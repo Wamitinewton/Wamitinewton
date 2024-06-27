@@ -1,4 +1,5 @@
 <p align="left">Hi 👋, I'm Newton Wamiti Muriithi</p>
+<p align="left">A passionate android developer from Nairobi, Kenya</p>
 
 ###
 
