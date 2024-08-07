@@ -17,6 +17,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=wamitinewton&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://raw.githubusercontent.com/wamitinewton/wamitinewton/output/snake.svg" alt="Snake animation" />
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=wamitinewton&limit=5&theme=dark&combine_all_yearly_contributions=true)
