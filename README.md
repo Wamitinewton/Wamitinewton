@@ -35,3 +35,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wamitinewton&show_icons=true&locale=en" alt="wamitinewton" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wamitinewton&" alt="wamitinewton" /></p>
+<img src="https://raw.githubusercontent.com/wamitinewton/wamitinewton/output/snake.svg" alt="Snake animation" />
