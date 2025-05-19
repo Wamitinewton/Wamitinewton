@@ -4,7 +4,7 @@
 
 ### 🚀 *Kotlin and Java Developer from Nairobi Kenya* 🇰🇪
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Full-Stack+Mobile+Developer;Backend+%26+Spring+Boot+Expert;Kotlin+%26+Flutter+Enthusiast;AI+%26+Machine+Learning+Explorer;Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Mobile+Developer;Backend+%26+Spring+Boot+Expert;Kotlin+%26+Flutter+Enthusiast;AI+%26+Machine+Learning+Explorer;Open+Source+Contributor" alt="Typing SVG" />
 
 ---
 
