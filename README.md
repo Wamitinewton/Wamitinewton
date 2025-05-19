@@ -10,10 +10,10 @@
 ```
 
 ### `./whoami` 👋
-**Full-Stack Mobile & Backend Developer** | **Code Wizard** | **Bug Hunter** 🐛  
+**Mobile & Backend Developer** | **Code Wizard** | **Bug Hunter** 🐛  
 *Currently debugging life from Nairobi, Kenya* 🇰🇪
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=700&lines=while(alive)+%7B+eat();+sleep();+code();+repeat();+%7D;Full-Stack+Mobile+Developer;Backend+%26+Spring+Boot+Expert;Kotlin+%26+Flutter+Enthusiast;AI+%26+Machine+Learning+Explorer;if+(coffee+%3D%3D+empty)+panic();" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=700&lines=while(alive)+%7B+eat();+sleep();+code();+repeat();+%7D;Mobile+Developer;Backend+%26+Spring+Boot+Expert;Kotlin+%26+Flutter+Enthusiast;AI+%26+Machine+Learning+Explorer;if+(coffee+%3D%3D+empty)+panic();" alt="Typing SVG" />
 
 ---
 
@@ -40,23 +40,10 @@ public class Newton extends Human implements Developer {
         this.currentTasks = Arrays.asList(
             "Building cross-platform apps",
             "Architecting Spring Boot APIs", 
-            "Training neural networks",
             "Convincing AI that humans are friendly"
         );
     }
-    
-    @Override
-    public void code() {
-        while (coffee.isAvailable()) {
-            if (bug.exists()) {
-                debug();
-            } else {
-                createFeature();
-            }
-            commitToGit();
-        }
-    }
-    
+
     public String getMotto() {
         return "Code never lies, comments sometimes do 💻";
     }
@@ -122,14 +109,6 @@ $ heroku deploy --database=awesome
 ```
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### **AI & Machine Learning**
-```python
-import awesome_ai_skills as ai
-ai.train_models()
-```
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 
 ### **DevOps & Tools**
 ```yaml
@@ -220,24 +199,6 @@ $ grep -r "awesome" ./repositories/*
 
 > *"There are only 10 types of people in the world:*  
 > *Those who understand binary and those who don't."* 😏
-
-### 🔥 **Daily Routine**
-
-```python
-def life():
-    while True:
-        coffee = drink_coffee()
-        if coffee.level > 0:
-            code = write_awesome_code()
-            if code.bugs == 0:
-                celebrate()
-            else:
-                debug_with_duck()
-        sleep(lambda: coffee.level == 0)
-
-# Running since 1995...
-life()
-```
 
 ---
 
