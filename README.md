@@ -1,237 +1,143 @@
 <div align="center">
 
-```
-  ███╗   ██╗███████╗██╗    ██╗████████╗ ██████╗ ███╗   ██╗
-  ████╗  ██║██╔════╝██║    ██║╚══██╔══╝██╔═══██╗████╗  ██║
-  ██╔██╗ ██║█████╗  ██║ █╗ ██║   ██║   ██║   ██║██╔██╗ ██║
-  ██║╚██╗██║██╔══╝  ██║███╗██║   ██║   ██║   ██║██║╚██╗██║
-  ██║ ╚████║███████╗╚███╔███╔╝   ██║   ╚██████╔╝██║ ╚████║
-  ╚═╝  ╚═══╝╚══════╝ ╚══╝╚══╝    ╚═╝    ╚═════╝ ╚═╝  ╚═══╝
-```
+# Hey, I'm Newton Wamiti 👋
 
-### `./whoami` 👋
-**Mobile & Backend Developer** | **Code Wizard** | **Bug Hunter** 🐛  
-*Currently debugging life from Nairobi, Kenya* 🇰🇪
+**Mobile & Backend Developer** · Nairobi, Kenya 🇰🇪
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=700&lines=while(alive)+%7B+eat();+sleep();+code();+repeat();+%7D;Mobile+Developer;Backend+%26+Spring+Boot+Expert;Kotlin+%26+Flutter+Enthusiast;AI+%26+Machine+Learning+Explorer;if+(coffee+%3D%3D+empty)+panic();" alt="Typing SVG" />
+I build mobile applications and backend systems with a focus on clean architecture,
+DevOps automation, and scalable cloud-native deployments.
 
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
-
-</div>
-
-## 🤖 **System.out.println("About Me");**
-
-```java
-public class Newton extends Human implements Developer {
-    
-    private String[] locations = {"Nairobi", "Kenya 🇰🇪", "The Matrix"};
-    private String currentStatus = "Compiling life...";
-    private boolean isDebugging = true;
-    private int coffeeLevel = Integer.MAX_VALUE;
-    
-    public Newton() {
-        super("Newton Wamiti");
-        this.skills.addAll(Arrays.asList(
-            "Mobile Development", "Backend Engineering", 
-            "Coffee Consumption", "Rubber Duck Debugging"
-        ));
-        this.currentTasks = Arrays.asList(
-            "Building cross-platform apps",
-            "Architecting Spring Boot APIs", 
-            "Convincing AI that humans are friendly"
-        );
-    }
-
-    public String getMotto() {
-        return "Code never lies, comments sometimes do 💻";
-    }
-}
-```
-
-<div align="center">
-
-### 🚀 **Current Quests**
-
-| 🔭 **Main(args)** | 🌱 **Learning Tree** | 👯 **Co-op Mode** |
-|------------------|---------------------|-------------------|
-| `gradle build` Kotlin Projects<br>`mvn spring-boot:run` APIs | `npm install` Kotlin Multiplatform<br>`docker pull` Microservices | `git clone` Mobile AI Projects<br>`merge --no-ff` Backend Integration |
-
-**⏱️ Uptime:** Coding since I discovered `Hello, World!`  
-**☕ Current Status:** `while(true) { code(); coffee(); }`
+[![Gmail](https://img.shields.io/badge/wamitinewton@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:wamitinewton@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/newton--wamiti-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/newton-wamiti)
+[![Twitter](https://img.shields.io/badge/@wamiti__newton-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/wamiti_newton)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/24311139)
 
 </div>
 
 ---
 
-## 📡 **Network Connections**
+### 🛠 Tech Stack
+
+**Languages & Frameworks**
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+**Mobile**
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+
+**Backend**
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=flat&logo=postman&logoColor=white)
+
+**DevOps & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat&logo=argo&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat&logo=apachecassandra&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white)
+
+---
+
+### GitHub Stats
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wamitinewton@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/newton-wamiti)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/wamiti_newton)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/12832)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24311139)
-
-*"In code we trust, in coffee we function"* ☕️
+<!-- Stats Card (github-readme-stats-fast — faster caching, more reliable) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=wamitinewton&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=wamitinewton&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=wamitinewton&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Newton's GitHub Stats" />
+</picture>
+&nbsp;
+<!-- Streak Stats (demolab — official maintained instance) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=wamitinewton&theme=tokyonight&hide_border=true&background=00000000" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=wamitinewton&theme=default&hide_border=true" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=wamitinewton&theme=tokyonight&hide_border=true" alt="Newton's Streak Stats" />
+</picture>
 
 </div>
 
 ---
 
-## 💾 **Tech Stack (My Digital Arsenal)**
+### 🏆 Most Used Languages
 
 <div align="center">
 
-### **Frontend Mobile Development**
-```bash
-$ sudo apt install awesome-mobile-skills
-```
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-### **Backend Development**
-```bash
-$ docker-compose up backend-magic
-```
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### **Database & Cloud**
-```bash
-$ heroku deploy --database=awesome
-```
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### **DevOps & Tools**
-```yaml
-- name: Deploy Awesome Code
-  uses: github-actions/magic@v3
-```
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+<!-- Top Languages (github-readme-stats-fast) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wamitinewton&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=00000000" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wamitinewton&layout=compact&theme=default&hide_border=true&langs_count=10" />
+  <img width="400" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wamitinewton&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
+</picture>
 
 </div>
 
 ---
 
-## 📊 **System Analytics & Performance Metrics**
+### 📈 Contribution Summary
 
 <div align="center">
 
-```
-Analyzing GitHub performance...
-████████████████████████████████ 100%
-Status: All systems operational ✅
-```
+<!-- Profile Details — full-width contribution graph (github-profile-summary-cards) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wamitinewton&theme=tokyonight" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wamitinewton&theme=default" />
+  <img width="720" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wamitinewton&theme=tokyonight" alt="Contribution Graph" />
+</picture>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wamitinewton&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=Newton's+Code+Statistics"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=wamitinewton&theme=radical&hide_border=true"/>
+<br/>
 
-**Commit Frequency:** `Every day is git commit day` 📈
+<!-- Repos per Language -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wamitinewton&theme=tokyonight" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wamitinewton&theme=default" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wamitinewton&theme=tokyonight" alt="Repos per Language" />
+</picture>
+&nbsp;
+<!-- Most Commit Language -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wamitinewton&theme=tokyonight" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wamitinewton&theme=default" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wamitinewton&theme=tokyonight" alt="Most Commit Language" />
+</picture>
+&nbsp;
+<!-- Stats -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wamitinewton&theme=tokyonight" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wamitinewton&theme=default" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wamitinewton&theme=tokyonight" alt="Stats" />
+</picture>
+&nbsp;
+<!-- Productive Time (UTC+3 for East Africa Time) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wamitinewton&theme=tokyonight&utcOffset=3" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wamitinewton&theme=default&utcOffset=3" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wamitinewton&theme=tokyonight&utcOffset=3" alt="Productive Time" />
+</picture>
 
 </div>
 
----
-
-## 🏆 **Achievement Unlocked**
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=wamitinewton&theme=matrix&no-frame=true&column=4&margin-w=15&margin-h=15" />
-
-```
-🎮 GitHub Gaming Stats:
-┌─────────────────────────────────────┐
-│  Level: Senior Developer            │
-│  XP: +∞                            │  
-│  Special Ability: Debug Vision 👀   │
-│  Achievement: Coffee Overflow       │
-└─────────────────────────────────────┘
-```
-
-</div>
-
----
-
-## 🐍 **Coding Activity Visualizer**
-
-<div align="center">
-
-```
-Loading activity matrix...
-```
-
-<img src="https://raw.githubusercontent.com/wamitinewton/wamitinewton/output/snake.svg" alt="Snake eating my contributions" />
-
-*The snake represents my code consuming bugs in the matrix* 🐛
-
-</div>
-
----
-
-## 📈 **Top Performance Benchmarks**
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=wamitinewton&limit=5&theme=radical&combine_all_yearly_contributions=true" />
-
-```bash
-$ grep -r "awesome" ./repositories/*
-└── Found: Infinite matches ♾️
-```
-
-</div>
-
----
-
-<div align="center">
-
-## 💡 **Random Dev Wisdom**
-
-> *"There are only 10 types of people in the world:*  
-> *Those who understand binary and those who don't."* 😏
-
----
-
-### 🚀 **Portfolio**
-
-**`ls -la ~/projects`**  
-*Total: Infinite lines of awesome code*  
-*Browse repository at:* **[github.com/Wamitinewton](https://github.com/Wamitinewton)**
-
----
-
-```
-┌─[ newton@github ]─[ ~/profile ]
-└─$ echo "Thanks for visiting my digital workspace!"
-```
-
-<img src="https://komarev.com/ghpvc/?username=wamitinewton&style=for-the-badge&color=00ff00&label=PROFILE+VIEWS">
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900">
-
-</div>
-
----
-
-<div align="center">
-
-### 🌟 **`git star` if you enjoyed this profile!** ⭐
-
-```bash
-$ git clone https://github.com/Wamitinewton
-$ cd awesome-projects
-$ make friends
-$ ./collaborate.sh
-```
+<img src="https://komarev.com/ghpvc/?username=wamitinewton&style=flat&color=70a5fd&label=Profile+Views" alt="Profile Views" />
 
 </div>
